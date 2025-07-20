@@ -45,7 +45,7 @@ The analysis explores:
 ---
 
 ### 🚨 Non-Compliant Listings (Minpaku + Smoke Alarm)
-![Compliance Check](screenshots/Non_compliant.png)
+![Compliance Check](screenshots/Non_Compliant.png)
 
 
 ## 🚀 Running the Streamlit App
