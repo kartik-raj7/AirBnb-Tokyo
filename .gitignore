@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit cache
+.streamlit/
+
+# VSCode / IDEs
+.vscode/
+.idea/
+
+iframe_figures/
+*.csv
+*.json
+*.geojson
+
+# OS
+.DS_Store
+Thumbs.db
+
