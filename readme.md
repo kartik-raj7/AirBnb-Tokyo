@@ -26,6 +26,28 @@ The analysis explores:
 - Choropleth maps for neighborhood-level pricing
 - High-value listings (high ratings, low price, many reviews)
 
+
+## 🖼️ Sample Screenshots
+
+
+### 💎 Listings in Tokyo
+![Listings Map](screenshots/Clusters.png)
+
+
+### 🗺️ Average Price by Neighborhood
+![Choropleth Map](screenshots/Choropleth.png)
+
+---
+
+### 📈 Review Trends Over the Years
+![Review Trends](screenshots/Reviews.png)
+
+---
+
+### 🚨 Non-Compliant Listings (Minpaku + Smoke Alarm)
+![Compliance Check](screenshots/Non_compliant.png)
+
+
 ## 🚀 Running the Streamlit App
 
 After placing the data:
@@ -33,3 +55,5 @@ After placing the data:
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
